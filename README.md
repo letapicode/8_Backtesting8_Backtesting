@@ -1,4 +1,4 @@
-# 8_Backtesting8_Backtesting
+# 8_Backtesting
 Udacity AI for Trading Project 8
 
 Project 8: Backtesting
